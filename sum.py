@@ -1,3 +1,4 @@
 a = 4
-b = 6
-print(a+b)
+b = 7
+c= a+b
+print(c)
